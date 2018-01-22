@@ -21,7 +21,7 @@ html {
 /* Write your solution here */
 
 @media only screen and (min-width: 642px) (max-width: 1090px) {
-  #bear img {
+  #dolphin img {
    position: fixed;
    left: 800px;
   }
