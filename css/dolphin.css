@@ -24,5 +24,6 @@ html {
   #dolphin img {
    position: fixed;
    left: 800px;
+   transform: rotate(0.5turn);
   }
 }
